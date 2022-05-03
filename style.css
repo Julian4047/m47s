@@ -113,7 +113,7 @@ body {
 
 iframe {
     width: 65vw;
-    height: 100vh;
+    height: 93vh;
 }
 
 #shop_animation {
@@ -1536,4 +1536,12 @@ a {
 .contacts-body {
     padding-bottom: 15vh;
     padding-top: 15vh;
+}
+
+.p03052022 {
+    margin: 0px;
+}
+
+.flex {
+    display: flex;
 }

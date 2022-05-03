@@ -40,3 +40,4 @@ setTimeout(function() { document.getElementById("containerLoading").remove(); },
 setTimeout(function() { document.getElementById("containerLoading2").remove(); }, 2000);
 setTimeout(function() { document.getElementById("clps").classList.remove("clps"); }, 500);
 setTimeout(function() { document.getElementById("clps").classList.add("clpsPOST"); }, 500);
+//_____________________________//
