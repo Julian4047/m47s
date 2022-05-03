@@ -1163,6 +1163,7 @@ ____________pc------->>>>>>>____________________________________________________
         width: 15vw;
     }
     .shop-button {
+        height: 5vh;
         background-color: #1C0E0B;
         background-image: linear-gradient(160deg, #1C0E0B 9%, #2C150F 100%);
         border-style: none;
@@ -1512,4 +1513,27 @@ a {
     text-align: center;
     padding: 1vh;
     border-radius: 4px;
+}
+
+.sp114px {
+    font-family: 'sf';
+    font-size: 14px;
+    font-style: italic;
+}
+
+.sp014px {
+    font-style: normal;
+}
+
+.b03052022 {
+    background-color: #d8a89c;
+}
+
+#contacts-container {
+    margin: 5vh;
+}
+
+.contacts-body {
+    padding-bottom: 15vh;
+    padding-top: 15vh;
 }
